@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CCVN2 Automation">
+	
+<!--
+<test name="CCVN Sign Up Page Tests">
+<classes>
+<class name="LegoIO.CCVN2.Tests.SignUpPageTests"/>
+</classes>
+</test>
+
+
+<test name="Email Verification Page Tests">
+<classes>
+<class name="LegoIO.CCVN2.Tests.EmailPageTests"/>
+</classes>
+</test>
+-->
+
+<test name="Sign In Page Tests">
+<classes>
+<class name="LegoIO.CCVN2.Tests.SignInTests"/>
+</classes>
+</test>
+
+ <!--
+ <test name="Exp180 Page Tests">
+ <classes>
+ <class name="LegoIO.CCVN2.Tests.Exp180Tests"/>
+ </classes>
+ </test>
+
+ <test name="Dialogue Page Tests">
+ <classes>
+ <class name="LegoIO.CCVN2.Tests.DialoguePageTests"/>
+ </classes>
+ </test>
+
+ <test name="Dialect Page Tests">
+ <classes>
+ <class name="LegoIO.CCVN2.Tests.DialectTests"/>
+ </classes>
+ </test>
+
+ <test name="Identity Page Tests">
+ <classes>
+ <class name="LegoIO.CCVN2.Tests.IdentityTests"/>
+ </classes>
+ </test>
+
+ <test name="StairCase Page Tests">
+ <classes>
+ <class name="LegoIO.CCVN2.Tests.StaircaseTests"/>
+ </classes>
+ </test>
+
+ <test name="Bandwith Page Tests">
+ <classes>
+ <class name="LegoIO.CCVN2.Tests.BandwithTests"/>
+ </classes>
+ </test>
+
+ <test name="Strategy Page Tests">
+ <classes>
+ <class name="LegoIO.CCVN2.Tests.StrategyTests"/>
+ </classes>
+ </test>
+
+ <test name="Cart Page Tests">
+<classes>
+<class name="LegoIO.CCVN2.Tests.CartTests"/>
+</classes>
+</test>
+
+ <test name="Payment Page Tests">
+<classes>
+<class name="LegoIO.CCVN2.Tests.PaymentTests"/>
+</classes>
+</test>
+
+ <test name="Order Cancel Test">
+  <classes>
+   <class name="LegoIO.CCVN2.Tests.OrderCancelTests"/>
+  </classes>
+ </test>
+-->
+</suite> 

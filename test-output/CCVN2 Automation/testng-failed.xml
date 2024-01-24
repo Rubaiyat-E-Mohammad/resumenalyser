@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CCVN2 Automation]" guice-stage="DEVELOPMENT">
+  <test name="Sign In Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.SignInTests">
+        <methods>
+          <include name="afterClass"/>
+          <include name="SignInForm"/>
+          <include name="report"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.SignInTests -->
+    </classes>
+  </test> <!-- Sign In Page Tests(failed) -->
+  <test name="Exp180 Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.Exp180Tests">
+        <methods>
+          <include name="start"/>
+          <include name="ShowProduct"/>
+          <include name="OpenUrl"/>
+          <include name="AddCart"/>
+          <include name="close"/>
+          <include name="Exp180Option"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.Exp180Tests -->
+    </classes>
+  </test> <!-- Exp180 Page Tests(failed) -->
+  <test name="Dialogue Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.DialoguePageTests">
+        <methods>
+          <include name="BandwithOption"/>
+          <include name="start"/>
+          <include name="afterClass"/>
+          <include name="AddCart"/>
+          <include name="close"/>
+          <include name="ShowProduct"/>
+          <include name="report"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.DialoguePageTests -->
+    </classes>
+  </test> <!-- Dialogue Page Tests(failed) -->
+  <test name="Dialect Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.DialectTests">
+        <methods>
+          <include name="report"/>
+          <include name="start"/>
+          <include name="afterClass"/>
+          <include name="Exp180Option"/>
+          <include name="close"/>
+          <include name="ShowProduct"/>
+          <include name="AddCart"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.DialectTests -->
+    </classes>
+  </test> <!-- Dialect Page Tests(failed) -->
+  <test name="Identity Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.IdentityTests">
+        <methods>
+          <include name="afterClass"/>
+          <include name="report"/>
+          <include name="IdentityOption"/>
+          <include name="ShowProduct"/>
+          <include name="AddCart"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.IdentityTests -->
+    </classes>
+  </test> <!-- Identity Page Tests(failed) -->
+  <test name="StairCase Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.StaircaseTests">
+        <methods>
+          <include name="IdentityOption"/>
+          <include name="afterClass"/>
+          <include name="ShowProduct"/>
+          <include name="report"/>
+          <include name="AddCart"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.StaircaseTests -->
+    </classes>
+  </test> <!-- StairCase Page Tests(failed) -->
+  <test name="Bandwith Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.BandwithTests">
+        <methods>
+          <include name="ShowProduct"/>
+          <include name="report"/>
+          <include name="IdentityOption"/>
+          <include name="afterClass"/>
+          <include name="AddCart"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.BandwithTests -->
+    </classes>
+  </test> <!-- Bandwith Page Tests(failed) -->
+  <test name="Strategy Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.StrategyTests">
+        <methods>
+          <include name="ShowProduct"/>
+          <include name="report"/>
+          <include name="IdentityOption"/>
+          <include name="afterClass"/>
+          <include name="AddCart"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.StrategyTests -->
+    </classes>
+  </test> <!-- Strategy Page Tests(failed) -->
+  <test name="Cart Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.CartTests">
+        <methods>
+          <include name="afterClass"/>
+          <include name="report"/>
+          <include name="CartOparetions"/>
+          <include name="FileUplaod"/>
+          <include name="FileUplaod"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.CartTests -->
+    </classes>
+  </test> <!-- Cart Page Tests(failed) -->
+  <test name="Payment Page Tests(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.PaymentTests">
+        <methods>
+          <include name="afterClass"/>
+          <include name="PaymentForm"/>
+          <include name="Report"/>
+          <include name="PaymentOption"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.PaymentTests -->
+    </classes>
+  </test> <!-- Payment Page Tests(failed) -->
+</suite> <!-- Failed suite [CCVN2 Automation] -->

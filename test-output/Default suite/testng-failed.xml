@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="LegoIO.CCVN2.Tests.Exp180Tests">
+        <methods>
+          <include name="close"/>
+          <include name="OpenUrl"/>
+          <include name="start"/>
+          <include name="ShowProduct"/>
+          <include name="Exp180Option"/>
+          <include name="afterClass"/>
+          <include name="AddCart"/>
+        </methods>
+      </class> <!-- LegoIO.CCVN2.Tests.Exp180Tests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
